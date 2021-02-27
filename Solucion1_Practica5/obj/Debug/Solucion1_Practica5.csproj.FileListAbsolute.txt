@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.Form1.resources
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.Properties.Resources.resources
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\bin\Debug\Solucion1_Practica5.exe.config
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\bin\Debug\Solucion1_Practica5.exe
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\bin\Debug\Solucion1_Practica5.pdb
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.exe
+C:\Users\Usuario\source\repos\LCM2021\practicaTema5_LCM\Solucion1_Practica5\obj\Debug\Solucion1_Practica5.pdb
